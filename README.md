@@ -11,4 +11,4 @@
 
 
 
-*this is not a comprehensive list, more to updated every week*
+*this is not a comprehensive list, more updated every week*
