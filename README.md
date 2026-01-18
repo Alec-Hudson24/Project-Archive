@@ -4,7 +4,7 @@
 2.) [Precisioned Machined Flag Holder](https://github.com/Alec-Hudson24/Precision-made-Flag-Holder/tree/main)  
 3.) [Motion Activated Light Project](https://github.com/Alec-Hudson24/Motion-Activated-LED-Lights/tree/main)  
 4.) Full Deck Remodel  
-5.) Desk Build  
+5.) [Desk Build](https://github.com/Alec-Hudson24/Custom-Office-Desk/tree/main)  
 6.) [Drone Holder](https://github.com/Alec-Hudson24/Drone-Holder/tree/main)
 
 
