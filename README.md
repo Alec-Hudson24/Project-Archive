@@ -5,7 +5,7 @@
 3.) [Motion Activated Light Project](https://github.com/Alec-Hudson24/Motion-Activated-LED-Lights/tree/main)  
 4.) Full Deck Remodel  
 5.) Desk Build  
-6.) Drone Holder  
+6.) [Drone Holder](https://github.com/Alec-Hudson24/Drone-Holder/tree/main)
 
 
 
