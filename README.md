@@ -6,7 +6,7 @@
 4.) [Full Deck Remodel](https://github.com/Alec-Hudson24/Complete-Deck-Remodel/blob/main/README.md)  
 5.) [Desk Build](https://github.com/Alec-Hudson24/Custom-Office-Desk/blob/main/README.md)  
 6.) [Drone Holder](https://github.com/Alec-Hudson24/Drone-Holder/blob/main/README.md)  
-7.) [Python Scripts](https://github.com/Alec-Hudson24/Python-Scripts/blob/main/README.md)  
+7.) [Coding Basics Python Scripts](https://github.com/Alec-Hudson24/Python-Scripts/blob/main/README.md)  
   
 
 
